@@ -18,6 +18,7 @@ public class Main {
         myCat1.animalSound();
         Integer sum1 = myDog1.sum(5,6);
         System.out.println(sum1);
+        System.out.println("test branch");
     }
 
 }
