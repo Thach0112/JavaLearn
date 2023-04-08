@@ -19,6 +19,7 @@ public class Main {
         Integer sum1 = myDog1.sum(5,6);
         System.out.println(sum1);
         System.out.println("test branch");
+        System.out.println("Thach");
     }
 
 }
