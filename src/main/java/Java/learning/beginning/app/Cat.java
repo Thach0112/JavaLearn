@@ -1,7 +1,7 @@
 package Java.learning.beginning.app;
 public class Cat extends Animal{
 
-    private final int intV;
+    private int intV;
     private String mongvuot;
     private boolean isCatMouse;
     private char CharV;
@@ -15,7 +15,7 @@ public class Cat extends Animal{
         this.mongvuot = mongvuot;
         this.intV = giatri;
     }
-    public String toString(){
+      public String toString(){
 
         return "" + this.mongvuot+this.giatri;
     }
